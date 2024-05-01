@@ -287,7 +287,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 500
   speedRangeModifier: 100
-  musicPlayTime: 0.27
   colors:
   - {r: 0, g: 0, b: 1, a: 1}
   - {r: 1, g: 0, b: 0, a: 1}
@@ -311,7 +310,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: a5aab138cb2a246538bd8f55268add25, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
-  m_Pitch: 1
+  m_Pitch: -3
   Loop: 0
   Mute: 0
   Spatialize: 0
